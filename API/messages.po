@@ -1,0 +1,1150 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Language:"
+msgstr "Idioma:"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "select language"
+msgstr "seleccionar idioma"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Step 1 - select language"
+msgstr "Paso 1 - seleccionar idioma"
+
+msgid "Step 2 - share the Bacula Catalog Database"
+msgstr "Paso 2 - compartir la Base de Datos del Catálogo de Bacula"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Database type:"
+msgstr "Tipo de base de datos:"
+
+msgid "select database"
+msgstr "seleccionar base de datos"
+
+msgid "Database name:"
+msgstr "Nombre de la base de datos:"
+
+msgid "Please select database type."
+msgstr "Por favor, seleccione el tipo de base de datos."
+
+msgid "Please enter database name."
+msgstr "Por favor, introduzca el nombre de la base de dato."
+
+msgid "Login:"
+msgstr "Iniciar sesión:"
+
+msgid "Please enter login."
+msgstr "Por favor, introduzca el inicio de sesión."
+
+msgid "Password:"
+msgstr "Contraseña:"
+
+msgid "IP address (or hostname):"
+msgstr "Dirección IP (o nombre de host):"
+
+msgid "Please enter IP address or hostname."
+msgstr "Por favor, introduce la dirección IP o el nombre del host."
+
+msgid "Port:"
+msgstr "Puerto:"
+
+msgid "Please enter database port."
+msgstr "Por favor, introduzca el nombre de la base de dato."
+
+msgid "SQLite database path:"
+msgstr "Ruta de la base de datos SQLite:"
+
+msgid "Please enter database path."
+msgstr "Por favor, introduzca la ruta de la base de datos."
+
+msgid "Connection test:"
+msgstr "Prueba de conexión:"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Connection error"
+msgstr "Error de conexión"
+
+msgid "test"
+msgstr "prueba"
+
+msgid "Bconsole binary file path:"
+msgstr "Ruta del archivo binario Bconsole:"
+
+msgid "Please enter bconsole path."
+msgstr "Por favor, introduzca la ruta de Bconsole."
+
+msgid "Please enter bconsole config file path."
+msgstr ""
+"Por favor, introduzca la ruta del archivo de configuración de Bconsole."
+
+msgid "Use sudo:"
+msgstr "Use sudo:"
+
+msgid "Bconsole connection test:"
+msgstr "Prueba de conexión Bconsole:"
+
+msgid "Bconsole admin config file path:"
+msgstr "Ruta del archivo de configuración de admin de Bconsole:"
+
+msgid "NOTE!"
+msgstr "¡NOTA!"
+
+msgid "Step 3 - share the Bacula Bconsole commands interface"
+msgstr "Paso 3 - compartir la interfaz de comandos de Bconsole de Bacula"
+
+msgid "Console API"
+msgstr "API de Consola"
+
+msgid "bdirjson binary file path:"
+msgstr "Ruta del archivo binario bdirjson:"
+
+msgid "bsdjson binary file path:"
+msgstr "Ruta del archivo binario bsdjson:"
+
+msgid "bfdjson binary file path:"
+msgstr "Ruta del archivo binario bfdjson:"
+
+msgid "bbconsjson binary file path:"
+msgstr "Ruta del archivo binario bbconsjson:"
+
+msgid "Main Director config file path (usually bacula-dir.conf):"
+msgstr ""
+"Ruta del archivo de configuración del Director principal (generalmente "
+"bacula-dir.conf):"
+
+msgid "Main Storage Daemon config file path (usually bacula-sd.conf):"
+msgstr ""
+"Ruta del archivo de configuración del Daemon de almacenamiento principal "
+"(generalmente bacula-sd.conf):"
+
+msgid "Main File Daemon config file path (usually bacula-fd.conf):"
+msgstr ""
+"Ruta del archivo de configuración del Daemon de archivos principal "
+"(generalmente bacula-fd.conf):"
+
+msgid "Admin Bconsole config file path (usually bconsole.conf):"
+msgstr ""
+"Ruta del archivo de configuración de la consola de administración de "
+"Bconsole (generalmente bconsole.conf):"
+
+msgid "Test configuration"
+msgstr "Probar configuración"
+
+msgid "General configuration"
+msgstr "Configuración general"
+
+msgid "Step 4 - share the Bacula configuration interface"
+msgstr "Paso 4 - compartir la interfaz de configuración de Bacula"
+
+msgid "There is required to provide both binary file and config file paths."
+msgstr ""
+"Es necesario proporcionar tanto las rutas de los archivos binarios como de "
+"los archivos de configuración."
+
+msgid "Directory path field is required."
+msgstr "Se requiere el campo de ruta del directorio."
+
+msgid "Provided directory path is not writable by web server."
+msgstr ""
+"La ruta del directorio proporcionada no es escribible por el servidor web."
+
+msgid "Config API"
+msgstr "Configuración API"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Finish"
+msgstr "Finalizar"
+
+msgid "Administration login:"
+msgstr "Inicio de sesión de Administración:"
+
+msgid "Administration password:"
+msgstr "Contraseña de Administración:"
+
+msgid "Please enter password."
+msgstr "Por favor, introduzca la contraseña."
+
+msgid "Password must be longer than 4 chars."
+msgstr "La contraseña debe ser mayor de 4 caracteres."
+
+msgid "Retype administration password:"
+msgstr "Vuelva a escribir la contraseña de administración:"
+
+msgid "Please enter retype password."
+msgstr "Por favor, vuelva a introducir la contraseña."
+
+msgid "Passwords must be the same."
+msgstr "Las contraseñas deben ser iguales."
+
+msgid "Use HTTP Basic authentication"
+msgstr "Usar autenticación básica HTTP"
+
+msgid "Use OAuth2 for authorization and authentication"
+msgstr "Usar OAuth2 para autorización y autenticación"
+
+msgid "Database port:"
+msgstr "Puerto de base de datos:"
+
+msgid "Database file path (SQLite only):"
+msgstr "Ruta del archivo de base de datos (sólo SQLite):"
+
+msgid "Use sudo for bconsole requests:"
+msgstr "Usar sudo para solicitudes bconsole:"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Step 6 - Finish"
+msgstr "Paso 6 - Finalizar"
+
+msgid "Use sudo for Bacula JSON tools:"
+msgstr "Usar sudo para herramientas JSON de Bacula:"
+
+msgid "Main Director config file path:"
+msgstr "Ruta del archivo de configuración del Director principal:"
+
+msgid "Main Client config file path:"
+msgstr "Ruta del archivo de configuración del Cliente principal:"
+
+msgid "Main Storage Daemon config file path:"
+msgstr ""
+"Ruta del archivo de configuración del Daemon de Almacenamiento principal:"
+
+msgid "Main Bconsole config file path:"
+msgstr "Ruta del archivo de configuración bconsole principal:"
+
+msgid "Please select API endpoint"
+msgstr "Por favor, seleccione el punto final de la API"
+
+msgid "Catalog access:"
+msgstr "Acceso al catálogo:"
+
+msgid "Console access:"
+msgstr "Acceso a la consola:"
+
+msgid "Config access:"
+msgstr "Acceso a la configuración:"
+
+msgid "Disabled"
+msgstr "Desactivado"
+
+msgid ""
+"Invalid Client ID value. Client ID may contain a-z A-Z 0-9 - _ characters."
+msgstr ""
+"Valor de ID de Cliente no válido. El ID de Cliente puede contener los "
+"caracteres a-z A-Z 0-9 - _."
+
+msgid "Please enter Client ID."
+msgstr "Por favor, introduzca la ID de Cliente."
+
+msgid "OAuth2 Client ID:"
+msgstr "ID de Cliente OAuth2:"
+
+msgid "OAuth2 Client Secret:"
+msgstr "Secreto de Cliente OAuth2:"
+
+msgid "Please enter Client Secret."
+msgstr "Por favor, introduzca el Secreto de Cliente."
+
+msgid ""
+"Invalid Client Secret value. Client Secret may contain any character that is"
+" not a whitespace character."
+msgstr ""
+"Valor del Secreto de Cliente no válido. El Secreto de Cliente puede contener"
+" cualquier carácter que no sea un espacio en blanco."
+
+msgid "generate"
+msgstr "generar"
+
+msgid "Dedicated Bconsole config file path:"
+msgstr "Ruta del archivo de configuración bconsole dedicado:"
+
+msgid "Please enter Redirect URI."
+msgstr "Por favor, introduzca el URI de Redireccionamiento."
+
+msgid "OAuth2 Redirect URI (example: https://bacularis:9097/web/redirect):"
+msgstr ""
+"URI de Redireccionamiento OAuth2 (ejemplo: "
+"https://bacularis:9097/web/redirect):"
+
+msgid "(optional)"
+msgstr "(opcional)"
+
+msgid "OAuth2 scopes (space separated):"
+msgstr "Alcances OAuth2 (separados por espacio):"
+
+msgid "Please enter OAuth2 scopes."
+msgstr "Por favor, introduzca los alcances OAuth2."
+
+msgid "Refresh token"
+msgstr "Actualizar token"
+
+msgid "New OAuth2 client"
+msgstr "Nuevo cliente OAuth2"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "API Login:"
+msgstr "Nombre de usuario de API:"
+
+msgid "API Password:"
+msgstr "Contraseña de API:"
+
+msgid "Retype password:"
+msgstr "Volver a escribir la contraseña:"
+
+msgid "Please enter API login."
+msgstr "Por favor, introduzca el inicio de sesión de API."
+
+msgid "Please enter API password."
+msgstr "Por favor, introduzca la contraseña de API."
+
+msgid "User added successfully."
+msgstr "Usuario añadido exitosamente."
+
+msgid ""
+"Problem during save to config file. Please check users config file "
+"permission."
+msgstr ""
+"Problema al guardar en el archivo de configuración. Por favor, compruebe los"
+" permisos del archivo de configuración de usuarios."
+
+msgid "Given user already exists in config file."
+msgstr "El usuario dado ya existe en el archivo de configuración."
+
+msgid "set all scopes"
+msgstr "establecer todos los alcances"
+
+msgid "Welcome on the Bacularis API default page"
+msgstr "Bienvenido a la página por defecto de la API de Bacularis"
+
+msgid "Bacularis API Client"
+msgstr "Cliente de la API de Bacularis"
+
+msgid "Here you can try one from API commands"
+msgstr "Aquí puedes probar uno de los comandos de la API"
+
+msgid "Starting..."
+msgstr "Iniciando..."
+
+msgid "Username"
+msgstr "Nombre de usuario"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Client ID"
+msgstr "ID de cliente"
+
+msgid "Redirect URI"
+msgstr "Redirigir URI"
+
+msgid "Scopes"
+msgstr "Alcances"
+
+msgid "Bconsole Path"
+msgstr "Ruta Bconsole"
+
+msgid "Access token:"
+msgstr "Token de acceso:"
+
+msgid "Send request"
+msgstr "Enviar solicitud"
+
+msgid "Basic auth ready..."
+msgstr "Autenticación básica lista..."
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Short name:"
+msgstr "Nombre corto:"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Edit OAuth2 client parameters"
+msgstr "Editar parámetros del cliente OAuth2"
+
+msgid "Select:"
+msgstr "Seleccionar:"
+
+msgid "Bacularis working directory for Bacula config:"
+msgstr "Directorio de trabajo de Bacularis para la configuración de Bacula:"
+
+msgid ""
+"In this directory Bacularis API saves temporarily Bacula configuration files"
+" (mainly for validation purposes) just before they are written as real "
+"Bacula configuration files."
+msgstr ""
+"En este directorio, la API de Bacularis guarda temporalmente los archivos de"
+" configuración de Bacula (principalmente para fines de validación) justo "
+"antes de que se escriban como archivos de configuración de Bacula reales."
+
+msgid "Version:"
+msgstr "Versión:"
+
+msgid "Authentication"
+msgstr "Autenticación"
+
+msgid "Authentication type:"
+msgstr "Tipo de autenticación:"
+
+msgid "Step 5 - authentication to API"
+msgstr "Paso 5 - autenticación a la API"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Start"
+msgstr "Iniciar"
+
+msgid "Stop"
+msgstr "Detener"
+
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgid "Director start command:"
+msgstr "Comando de inicio del Director:"
+
+msgid "Director stop command:"
+msgstr "Comando de parada del Director:"
+
+msgid "Director restart command:"
+msgstr "Comando de reinicio del Director:"
+
+msgid "Storage Daemon start command:"
+msgstr "Comando de inicio del Daemon de Almacenamiento:"
+
+msgid "Storage Daemon stop command:"
+msgstr "Comando de parada del Daemon de Almacenamiento:"
+
+msgid "Storage Daemon restart command:"
+msgstr "Comando de reinicio del Daemon de Almacenamiento:"
+
+msgid "File Daemon/Client start command:"
+msgstr "Comando de inicio del Daemon de Archivos/Cliente:"
+
+msgid "File Daemon/Client stop command:"
+msgstr "Comando de parada del Daemon de Archivos/Cliente:"
+
+msgid "File Daemon/Client restart command:"
+msgstr "Comando de reinicio del Daemon de Archivos/Cliente:"
+
+msgid ""
+"Do you want to setup start, stop and restart actions for Bacula components? "
+"If you define them, there will be possible to call these actions via API "
+"interface and by Baculum Web as well."
+msgstr ""
+"¿Quieres configurar las acciones de inicio, parada y reinicio para los "
+"componentes de Bacula? Si los defines, será posible llamar a estas acciones "
+"a través de la interfaz API y por Baculum Web también."
+
+msgid "Sudo configuration"
+msgstr "Configuración sudo"
+
+msgid ""
+"Example sudo configuration for Apache, Nginx and Lighttpd web servers with "
+"default PHP-FPM configuration:"
+msgstr ""
+"Configuración sudo de ejemplo para los servidores web Apache, Nginx y "
+"Lighttpd con configuración predeterminada de PHP-FPM:"
+
+msgid "Get sudo configuration"
+msgstr "Obtener configuración sudo"
+
+msgid ""
+"Please copy appropriate sudo configuration and put it to a new sudoers.d "
+"file for example /etc/sudoers.d/bacularis"
+msgstr ""
+"Por favor, copie la configuración sudo apropiada y póngala en un nuevo "
+"archivo sudoers.d, por ejemplo /etc/sudoers.d/bacularis"
+
+msgid "Step 5 - enable actions for components"
+msgstr "Paso 5 - habilitar acciones para componentes"
+
+msgid "Directory path for new config files:"
+msgstr "Ruta de directorio para nuevos archivos de configuración:"
+
+msgid "Use sudo for actions:"
+msgstr "Usar sudo para acciones:"
+
+msgid "Actions setting:"
+msgstr "Configuración de acciones:"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid ""
+"Please use visudo to add this configuration, otherwise please do remember to"
+" add empty line at the end of file."
+msgstr ""
+"Por favor, use visudo para agregar esta configuración, de lo contrario, "
+"recuerde agregar una línea vacía al final del archivo."
+
+msgid "Dashboard"
+msgstr "Tablero"
+
+msgid "Basic users"
+msgstr "Usuarios básicos"
+
+msgid "OAuth2 clients"
+msgstr "Clientes OAuth2"
+
+msgid "Settings"
+msgstr "Configuraciones"
+
+msgid "Configuration wizard"
+msgstr "Asistente de configuración"
+
+msgid "Welcome"
+msgstr "Bienvenido"
+
+msgid "Add user"
+msgstr "Agregar usuario"
+
+msgid "Edit user"
+msgstr "Editar usuario"
+
+msgid "Add OAuth2 client"
+msgstr "Agregar cliente OAuth2"
+
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+msgid "API settings"
+msgstr "Configuración de API"
+
+msgid "General"
+msgstr "General"
+
+msgid "Catalog"
+msgstr "Catálogo"
+
+msgid "Console"
+msgstr "Consola"
+
+msgid "Config"
+msgstr "Config"
+
+msgid "Enabled:"
+msgstr "Habilitado:"
+
+msgid "Debug:"
+msgstr "Depurar:"
+
+msgid "Add client"
+msgstr "Agregar cliente"
+
+msgid "Edit client"
+msgstr "Editar cliente"
+
+msgid "Invalid user. User may contain a-z A-Z 0-9 characters."
+msgstr "Usuario no válido. El usuario puede contener caracteres a-z A-Z 0-9."
+
+msgid "Show/hide"
+msgstr "Mostrar/ocultar"
+
+msgid "Copy to clipboard"
+msgstr "Copiar al portapapeles"
+
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+msgid "Devices"
+msgstr "Dispositivos"
+
+msgid "Autochangers"
+msgstr "Cambios automáticos"
+
+msgid "Add autochanger"
+msgstr "Agregar cambio automático"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Name:"
+msgstr "Nombre:"
+
+msgid "Changer device:"
+msgstr "Dispositivo cambiador:"
+
+msgid "Changer command:"
+msgstr "Comando cambiador:"
+
+msgid "Drive index:"
+msgstr "Índice de unidades:"
+
+msgid "Drive index"
+msgstr "Índice de unidades"
+
+msgid "Devices:"
+msgstr "Dispositivos:"
+
+msgid "Add device"
+msgstr "Agregar dispositivo"
+
+msgid "Field cannot be empty."
+msgstr "El campo no puede estar vacío."
+
+msgid "Invalid value."
+msgstr "Valor no válido."
+
+msgid "Device with the given name already exists."
+msgstr "El dispositivo con el nombre dado ya existe."
+
+msgid "Edit device"
+msgstr "Editar dispositivo"
+
+msgid "Use CTRL + left-click to multiple item selection"
+msgstr "Use CTRL + clic izquierdo para seleccionar varios elementos"
+
+msgid "Device path:"
+msgstr "Ruta del dispositivo:"
+
+msgid "Edit autochanger"
+msgstr "Editar cambio automático"
+
+msgid "Autochanger"
+msgstr "Cambio automático"
+
+msgid ""
+"Unable to delete device. Please unassign it from autochanger '%s' first."
+msgstr ""
+"No se puede eliminar el dispositivo. Desasígnalo del cambiador automático "
+"'%s' primero."
+
+msgid "Autochanger with the given name already exists."
+msgstr "El cambiador automático con el nombre dado ya existe."
+
+msgid "Copy from Bacula SD config:"
+msgstr "Copiar desde la configuración de Bacula SD:"
+
+msgid "Changer command test:"
+msgstr "Prueba de comando cambiador:"
+
+msgid "Changer command error"
+msgstr "Error de comando cambiador"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Column visibility"
+msgstr "Visibilidad de la columna"
+
+msgid "1 row selected"
+msgstr "1 fila seleccionada"
+
+msgid "%d rows selected"
+msgstr "%d filas seleccionadas"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mostrando _START_ a _END_ de _TOTAL_ entradas"
+
+msgid "First"
+msgstr "Primero"
+
+msgid "Last"
+msgstr "Último"
+
+msgid "No matching records found"
+msgstr "No se encontraron registros coincidentes"
+
+msgid "filtered from _MAX_ total entries"
+msgstr "filtrado de _MAX_ entradas totales"
+
+msgid "No data available in table"
+msgstr "No hay datos disponibles en la tabla"
+
+msgid "Search:"
+msgstr "Buscar:"
+
+msgid "Get pre-defined paths:"
+msgstr "Obtener rutas predefinidas:"
+
+msgid "Select paths"
+msgstr "Seleccionar rutas"
+
+msgid "Binaries:"
+msgstr "Binarios:"
+
+msgid "Configs:"
+msgstr "Configuraciones:"
+
+msgid "Dedicated Bconsole config"
+msgstr "Configuración de Bconsole dedicado"
+
+msgid "Step 1 - general options"
+msgstr "Paso 1 - opciones generales"
+
+msgid "Services:"
+msgstr "Servicios:"
+
+msgid "Enable API instance"
+msgstr "Habilitar instancia de API"
+
+msgid "Enable web interface"
+msgstr "Habilitar interfaz web"
+
+msgid "Welcome to the Bacularis install wizard"
+msgstr "Bienvenido al asistente de instalación de Bacularis"
+
+msgid "Please select language."
+msgstr "Por favor, seleccione el idioma."
+
+msgid "What services would you like to enable for this installation?"
+msgstr "¿Qué servicios le gustaría habilitar para esta instalación?"
+
+msgid "recommended"
+msgstr "recomendado"
+
+msgid "Step 5 - authentication"
+msgstr "Paso 5 - autenticación"
+
+msgid "API authentication"
+msgstr "Autenticación API"
+
+msgid "Use the same credentials for the API and for the web interface"
+msgstr "Usar las mismas credenciales para la API y para la interfaz web"
+
+msgid "Advanced options"
+msgstr "Opciones avanzadas"
+
+msgid "Web interface settings"
+msgstr "Configuraciones de la interfaz web"
+
+msgid "API IP Address/Hostname:"
+msgstr "Dirección IP/Nombre de anfitrión de la API:"
+
+msgid "Web interface authentication"
+msgstr "Autenticación de la interfaz web"
+
+msgid "API Protocol:"
+msgstr "Protocolo API:"
+
+msgid "API Port:"
+msgstr "Puerto API:"
+
+msgid "Select OS type"
+msgstr "Seleccionar tipo de sistema operativo"
+
+msgid "RPM-based system"
+msgstr "Sistema basado en RPM"
+
+msgid "DEB-based system"
+msgstr "Sistema basado en DEB"
+
+msgid "Director installation command:"
+msgstr "Comando de instalación del Director:"
+
+msgid "Director upgrade command:"
+msgstr "Comando de actualización del Director:"
+
+msgid "Director removal command:"
+msgstr "Comando de eliminación del Director:"
+
+msgid "Director info command:"
+msgstr "Comando de información del Director:"
+
+msgid "Director enable command:"
+msgstr "Comando de habilitación del Director:"
+
+msgid "Director pre-installation command:"
+msgstr "Comando pre-instalación del Director:"
+
+msgid "Director pre-upgrade command:"
+msgstr "Comando pre-actualización del Director:"
+
+msgid "Director pre-removal command:"
+msgstr "Comando pre-eliminación del Director:"
+
+msgid "Director post-installation command:"
+msgstr "Comando post-instalación del Director:"
+
+msgid "Director post-upgrade command:"
+msgstr "Comando post-actualización del Director:"
+
+msgid "Director post-removal command:"
+msgstr "Comando post-eliminación del Director:"
+
+msgid "Storage Daemon installation command:"
+msgstr "Comando de instalación del Daemon de Almacenamiento:"
+
+msgid "Storage upgrade command:"
+msgstr "Comando de actualización de Almacenamiento:"
+
+msgid "Storage removal command:"
+msgstr "Comando de eliminación de Almacenamiento:"
+
+msgid "Storage info command:"
+msgstr "Comando de información de Almacenamiento:"
+
+msgid "Storage enable command:"
+msgstr "Comando para habilitar almacenamiento:"
+
+msgid "Storage pre-installation command:"
+msgstr "Comando de preinstalación de almacenamiento:"
+
+msgid "Storage pre-upgrade command:"
+msgstr "Comando de preactualización de almacenamiento:"
+
+msgid "Storage pre-removal command:"
+msgstr "Comando de preremoción de almacenamiento:"
+
+msgid "Storage post-installation command:"
+msgstr "Comando de postinstalación de almacenamiento:"
+
+msgid "Storage post-upgrade command:"
+msgstr "Comando de post-actualización de almacenamiento:"
+
+msgid "Storage post-removal command:"
+msgstr "Comando de post-remoción de almacenamiento:"
+
+msgid "Client installation command:"
+msgstr "Comando de instalación del cliente:"
+
+msgid "Client upgrade command:"
+msgstr "Comando de actualización del cliente:"
+
+msgid "Client removal command:"
+msgstr "Comando de eliminación del cliente:"
+
+msgid "Client info command:"
+msgstr "Comando de información del cliente:"
+
+msgid "Client enable command:"
+msgstr "Comando para habilitar el cliente:"
+
+msgid "Client pre-installation command:"
+msgstr "Comando de preinstalación del cliente:"
+
+msgid "Client pre-upgrade command:"
+msgstr "Comando de preactualización del cliente:"
+
+msgid "Client pre-removal command:"
+msgstr "Comando de preremoción del cliente:"
+
+msgid "Client post-installation command:"
+msgstr "Comando de postinstalación del cliente:"
+
+msgid "Client post-upgrade command:"
+msgstr "Comando de post-actualización del cliente:"
+
+msgid "Client post-removal command:"
+msgstr "Comando de post-remoción del cliente:"
+
+msgid "Bconsole installation command:"
+msgstr "Comando de instalación Bconsole:"
+
+msgid "Bconsole upgrade command:"
+msgstr "Comando de actualización Bconsole:"
+
+msgid "Bconsole removal command:"
+msgstr "Comando de eliminación Bconsole:"
+
+msgid "Bconsole info command:"
+msgstr "Comando de información Bconsole:"
+
+msgid "Bconsole enable command:"
+msgstr "Comando para habilitar Bconsole:"
+
+msgid "Bconsole pre-installation command:"
+msgstr "Comando de preinstalación Bconsole:"
+
+msgid "Bconsole pre-upgrade command:"
+msgstr "Comando de preactualización Bconsole:"
+
+msgid "Bconsole pre-removal command:"
+msgstr "Comando de preremoción Bconsole:"
+
+msgid "Bconsole post-installation command:"
+msgstr "Comando de postinstalación Bconsole:"
+
+msgid "Bconsole post-upgrade command:"
+msgstr "Comando de post-actualización Bconsole:"
+
+msgid "Bconsole post-removal command:"
+msgstr "Comando de post-remoción Bconsole:"
+
+msgid "Software management"
+msgstr "Gestión de software"
+
+msgid "Get pre-defined commands:"
+msgstr "Obtener comandos predefinidos:"
+
+msgid "Director resource permissions"
+msgstr "Permisos de recursos del Director"
+
+msgid "Storage resource permissions"
+msgstr "Permisos de recursos de almacenamiento"
+
+msgid "Client resource permissions"
+msgstr "Permisos de recursos del cliente"
+
+msgid "Bconsole resource permissions"
+msgstr "Permisos de recursos Bconsole"
+
+msgid "Resource"
+msgstr "Recurso"
+
+msgid "Read-Only"
+msgstr "Solo lectura"
+
+msgid "Read-Write"
+msgstr "Lectura-Escritura"
+
+msgid "No access"
+msgstr "Sin acceso"
+
+msgid "read only"
+msgstr "solo lectura"
+
+msgid "read write"
+msgstr "lectura escritura"
+
+msgid "no access"
+msgstr "sin acceso"
+
+msgid "Preview"
+msgstr "Vista previa"
+
+msgid "All read-only"
+msgstr "Todos solo lectura"
+
+msgid "All read-write"
+msgstr "Todos lectura-escritura"
+
+msgid "All no access"
+msgstr "Todos sin acceso"
+
+msgid "Resource permissions"
+msgstr "Permisos de recursos"
+
+msgid "By default, all resources have read-write permissions."
+msgstr ""
+"Por defecto, todos los recursos tienen permisos de lectura y escritura."
+
+msgid "Sudo Runas user:"
+msgstr "Sudo Runas usuario:"
+
+msgid "Sudo Runas group:"
+msgstr "Sudo Runas grupo:"
+
+msgid "What services do you want to enable for this installation?"
+msgstr "¿Qué servicios quieres habilitar para esta instalación?"
+
+msgid "Do you have Bacula installed on this host?"
+msgstr "¿Tienes Bacula instalado en este host?"
+
+msgid ""
+"Yes. I already have Bacula component(s) installed on this host. I would like"
+" to use Bacularis with them."
+msgstr ""
+"Sí. Ya tengo componentes de Bacula instalados en este host. Me gustaría usar"
+" Bacularis con ellos."
+
+msgid ""
+"No. I do not have Bacula installed. I would like to install Bacula now and "
+"use Bacularis with it."
+msgstr ""
+"No. No tengo Bacula instalado. Me gustaría instalar Bacula ahora y usar "
+"Bacularis con él."
+
+msgid "What is your operating system?"
+msgstr "¿Cuál es tu sistema operativo?"
+
+msgid "Operating system:"
+msgstr "Sistema operativo:"
+
+msgid "What are your system admin account credentials?"
+msgstr ""
+"¿Cuáles son las credenciales de tu cuenta de administrador del sistema?"
+
+msgid "System admin login:"
+msgstr "Inicio de sesión del administrador del sistema:"
+
+msgid "System admin password:"
+msgstr "Contraseña del administrador del sistema:"
+
+msgid ""
+"After clicking the install Bacula button, there will be installed on this "
+"host Catalog (PostgreSQL), Bacula Director, Client, Storage and Bconsole."
+msgstr ""
+"Después de hacer clic en el botón de instalación de Bacula, se instalarán en"
+" este host Catalog (PostgreSQL), Director de Bacula, Cliente, Almacenamiento"
+" y Bconsole."
+
+msgid "Install Bacula"
+msgstr "Instalar Bacula"
+
+msgid ""
+"Bacula has been installed successfully. You can close this window and go "
+"further."
+msgstr ""
+"Bacula se ha instalado correctamente. Puede cerrar esta ventana y continuar."
+
+msgid "Result"
+msgstr "Resultado"
+
+msgid "Raw output"
+msgstr "Salida en bruto"
+
+msgid "Add SUDO settings"
+msgstr "Agregar configuraciones de SUDO"
+
+msgid "Configure Bacularis"
+msgstr "Configurar Bacularis"
+
+msgid "Install Catalog"
+msgstr "Instalar Catálogo"
+
+msgid "Install Director"
+msgstr "Instalar Director"
+
+msgid "Install Storage"
+msgstr "Instalar Almacenamiento"
+
+msgid "Install Client"
+msgstr "Instalar Cliente"
+
+msgid "Install Bconsole"
+msgstr "Instalar Bconsole"
+
+msgid "Step"
+msgstr "Paso"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Plugin settings"
+msgstr "Configuración del plugin"
+
+msgid "Installed plugins"
+msgstr "Plugins instalados"
+
+msgid "Add plugin settings"
+msgstr "Agregar configuraciones de plugin"
+
+msgid "Plugin name"
+msgstr "Nombre del plugin"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Select plugin"
+msgstr "Seleccionar plugin"
+
+msgid "Plugin"
+msgstr "Plugin"
+
+msgid "Edit plugin settings"
+msgstr "Editar configuraciones del plugin"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid ""
+"Tip: Use left-click to select table row. Use CTRL + left-click to multiple "
+"row selection. Use SHIFT + left-click to add a range of rows to selection."
+msgstr ""
+"Consejo: Usa el clic izquierdo para seleccionar la fila de la tabla. Usa "
+"CTRL + clic izquierdo para seleccionar varias filas. Usa SHIFT + clic "
+"izquierdo para agregar un rango de filas a la selección."
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Plugin settings with the given name already exists."
+msgstr "La configuración del plugin con el nombre dado ya existe."
+
+msgid "Login test"
+msgstr "Prueba de inicio de sesión"
+
+msgid "Test"
+msgstr "Prueba"
+
+msgid "Show result"
+msgstr "Mostrar resultado"
+
+msgid "Hide result"
+msgstr "Ocultar resultado"
+
+msgid "Do you want to setup the Bacula Catalog Database access?"
+msgstr "¿Quieres configurar el acceso a la base de datos del catálogo Bacula?"
+
+msgid "Bconsole configuration"
+msgstr "Configuración de Bconsole"
+
+msgid "Bacularis uses read-only access to the Bacula database."
+msgstr "Bacularis usa el acceso de solo lectura a la base de datos de Bacula."
+
+msgid "Bacularis uses Bacula console access to execute Bacula commands."
+msgstr ""
+"Bacularis usa el acceso a la consola de Bacula para ejecutar comandos de "
+"Bacula."
+
+msgid "Do you want to setup the Bacula Bconsole access?"
+msgstr "¿Quieres configurar el acceso a la consola Bacula Bconsole?"
+
+msgid "Catalog configuration"
+msgstr "Configuración del catálogo"
+
+msgid "Bacula configuration"
+msgstr "Configuración de Bacula"
+
+msgid "RHEL, CentOS, Fedora, Rocky Linux, AlmaLinux, Oracle Linux and others"
+msgstr "RHEL, CentOS, Fedora, Rocky Linux, AlmaLinux, Oracle Linux y otros"
+
+msgid "Debian, Ubuntu and others"
+msgstr "Debian, Ubuntu y otros"
+
+msgid "SLES, openSUSE and others"
+msgstr "SLES, openSUSE y otros"
+
+msgid ""
+"The configuration interface enables to configure Bacula components "
+"(Director, Storage, Client and Bconsole)."
+msgstr ""
+"La interfaz de configuración permite configurar los componentes de Bacula "
+"(Director, Almacenamiento, Cliente y Bconsole)."
+
+msgid "Do you want to setup the Bacula configuration interface?"
+msgstr "¿Desea configurar la interfaz de configuración de Bacula?"
