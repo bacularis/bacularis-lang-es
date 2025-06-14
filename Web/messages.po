@@ -5057,7 +5057,7 @@ msgid "Job size and files per day"
 msgstr "Tamaño y archivos de trabajo por día"
 
 msgid "Last successful job"
-msgstr "Último trabajo exitoso"
+msgstr "Último éxito"
 
 msgid "hour"
 msgstr "hora"
@@ -5075,7 +5075,7 @@ msgid "%time ago"
 msgstr "hace %time"
 
 msgid "Last failed job"
-msgstr "Último trabajo fallido"
+msgstr "Último fallo"
 
 msgid "Rerun"
 msgstr "Repetir"
