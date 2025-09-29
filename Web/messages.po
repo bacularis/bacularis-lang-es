@@ -7688,3 +7688,531 @@ msgstr ""
 
 msgid "Go to"
 msgstr "Ir a"
+
+msgid "Plugin not installed"
+msgstr "Plugin no instalado"
+
+msgid "Organization"
+msgstr "Organización"
+
+msgid ""
+"Cannot change organization. A username with the same name already exists in "
+"the selected organization."
+msgstr ""
+"No se puede cambiar la organización. Ya existe un nombre de usuario con el "
+"mismo nombre en la organización seleccionada."
+
+msgid "or use"
+msgstr "o use"
+
+msgid "Organizations"
+msgstr "Organizaciones"
+
+msgid "Auth methods"
+msgstr "Métodos de autenticación"
+
+msgid "Identity providers"
+msgstr "Proveedores de identidad"
+
+msgid "Provision user"
+msgstr "Provisión de usuario"
+
+msgid "New user role"
+msgstr "Nuevo rol de usuario"
+
+msgid "New user API host"
+msgstr "Nuevo host de API de usuario"
+
+msgid "Add new identity provider"
+msgstr "Añadir nuevo proveedor de identidad"
+
+msgid "Edit identity provider"
+msgstr "Editar proveedor de identidad"
+
+msgid "Add identity provider"
+msgstr "Añadir proveedor de identidad"
+
+msgid "Identity provider identifier"
+msgstr "Identificador de proveedor de identidad"
+
+msgid "Identity provider name"
+msgstr "Nombre del proveedor de identidad"
+
+msgid ""
+"This is the Single Sign-On (SSO) authentication method with using the OpenID"
+" Connect (OIDC) protocol. It is realized with an external identity provider."
+msgstr ""
+"Este es el método de autenticación de Single Sign-On (SSO) utilizando el "
+"protocolo OpenID Connect (OIDC). Se realiza con un proveedor de identidad "
+"externo."
+
+msgid "Redirect URI"
+msgstr "URI de redirección"
+
+msgid "Endpoints and functions"
+msgstr "Puntos finales y funciones"
+
+msgid "Use discovery endpoint"
+msgstr "Usar punto final de descubrimiento"
+
+msgid "Discovery URL"
+msgstr "URL de descubrimiento"
+
+msgid "Authorization URL"
+msgstr "URL de autorización"
+
+msgid "Token URL"
+msgstr "URL de token"
+
+msgid "Logout URL"
+msgstr "URL de cierre de sesión"
+
+msgid "User Info URL"
+msgstr "URL de información de usuario"
+
+msgid "Validate signatures"
+msgstr "Validar firmas"
+
+msgid "Use JWKS endpoint"
+msgstr "Usar punto final JWKS"
+
+msgid "Use PKCE"
+msgstr "Usar PKCE"
+
+msgid "PKCE method"
+msgstr "Método PKCE"
+
+msgid "Scope"
+msgstr "Alcance"
+
+msgid "Credentials"
+msgstr "Credenciales"
+
+msgid "Client ID"
+msgstr "ID de cliente"
+
+msgid "Client secret"
+msgstr "Secreto de cliente"
+
+msgid "User attribute source"
+msgstr "Fuente de atributo de usuario"
+
+msgid "Username attribute"
+msgstr "Atributo de nombre de usuario"
+
+msgid "Long name attribute"
+msgstr "Atributo de nombre largo"
+
+msgid "Email attribute"
+msgstr "Atributo de correo electrónico"
+
+msgid "Description attribute"
+msgstr "Atributo descripción"
+
+msgid "Attribute sync. policy"
+msgstr "Política de sincronización de atributos."
+
+msgid "Do not synchronize"
+msgstr "No sincronizar"
+
+msgid "Synchronize on each login"
+msgstr "Sincronizar en cada inicio de sesión"
+
+msgid "JWKS URL"
+msgstr "URL de JWKS"
+
+msgid "Public key (PEM format)"
+msgstr "Clave pública (formato PEM)"
+
+msgid "Public key ID"
+msgstr "ID de clave pública"
+
+msgid "Add new organization"
+msgstr "Agregar nueva organización"
+
+msgid "Add organization"
+msgstr "Agregar organización"
+
+msgid "Organization identifier"
+msgstr "Identificador de organización"
+
+msgid "Use current auth method"
+msgstr "Usar método de autenticación actual"
+
+msgid "Use identity provider"
+msgstr "Usar proveedor de identidad"
+
+msgid "Identity provider"
+msgstr "Proveedor de identidad"
+
+msgid "Login button color"
+msgstr "Color del botón de inicio de sesión"
+
+msgid "Organization:"
+msgstr "Organización:"
+
+msgid "IdP name"
+msgstr "Nombre de IdP"
+
+msgid "IdP type"
+msgstr "Tipo de IdP"
+
+msgid "Auth method"
+msgstr "Método de autenticación"
+
+msgid "Edit organization"
+msgstr "Editar organización"
+
+msgid "Default organization for imported users:"
+msgstr "Organización predeterminada para usuarios importados:"
+
+msgid "New user organization"
+msgstr "Organización de nuevo usuario"
+
+msgid ""
+"If you use your own identity provider (IdP) to authenticate users, you can "
+"configure Bacularis to use it. You can define one or multiple identity "
+"providers across different domains. This also enables single sign-on (SSO) "
+"support with the OpenID Connect authentication protocol. Identity providers "
+"are associated with organizations. Each organization can have its own "
+"identity provider."
+msgstr ""
+"Si utiliza su propio proveedor de identidad (IdP) para autenticar a los "
+"usuarios, puede configurar Bacularis para que lo utilice. Puede definir uno "
+"o varios proveedores de identidad en diferentes dominios. Esto también "
+"permite el soporte de inicio de sesión único (SSO) con el protocolo de "
+"autenticación OpenID Connect. Los proveedores de identidad están asociados "
+"con organizaciones. Cada organización puede tener su propio proveedor de "
+"identidad."
+
+msgid ""
+"Select one of the authentication methods to provide base authentication."
+msgstr ""
+"Seleccione uno de los métodos de autenticación para proporcionar "
+"autenticación base."
+
+msgid ""
+"Organizations help divide users into departments or other groups (e.g., "
+"sales department, finance department...). This facilitates user management "
+"within structures and allows separate authentication type for each "
+"organization. They are also useful for enabling single sign-on (SSO) with "
+"using the OpenID Connect authentication protocol."
+msgstr ""
+"Las organizaciones ayudan a dividir a los usuarios en departamentos u otros "
+"grupos (por ejemplo, departamento de ventas, departamento de finanzas...). "
+"Esto facilita la gestión de usuarios dentro de las estructuras y permite un "
+"tipo de autenticación separado para cada organización. También son útiles "
+"para habilitar el inicio de sesión único (SSO) con el uso del protocolo de "
+"autenticación OpenID Connect."
+
+msgid "IdP ID"
+msgstr "ID de IdP"
+
+msgid ""
+"The following organizations cannot be removed because they contain users. "
+"Please unassign users from these organizations and try again."
+msgstr ""
+"Las siguientes organizaciones no pueden ser eliminadas porque contienen "
+"usuarios. Por favor, desasigne a los usuarios de estas organizaciones e "
+"inténtelo de nuevo."
+
+msgid ""
+"The following identity providers cannot be removed because they are used in "
+"organizations. Please unassign identity providers from the organizations and"
+" try again."
+msgstr ""
+"Los siguientes proveedores de identidad no pueden ser eliminados porque se "
+"utilizan en organizaciones. Por favor, desasigne a los proveedores de "
+"identidad de las organizaciones e inténtelo de nuevo."
+
+msgid "Organization with identifier '%s' already exists."
+msgstr "La organización con identificador '%s' ya existe."
+
+msgid "Prompt"
+msgstr "Aviso"
+
+msgid "Use refresh token"
+msgstr "Usar token de actualización"
+
+msgid "Login"
+msgstr "Iniciar sesión"
+
+msgid ""
+"Identity provider identifier '%s' already exists. Please type different "
+"identifier."
+msgstr ""
+"El identificador del proveedor de identidad '%s' ya existe. Por favor, "
+"introduzca un identificador diferente."
+
+msgid "Additional options"
+msgstr "Opciones adicionales"
+
+msgid "Post logout redirect URI"
+msgstr "URI de redirección después del cierre de sesión"
+
+msgid ""
+"Client version should be the same or lower than the Director and Storage "
+"Daemon version."
+msgstr ""
+"La versión del cliente debe ser la misma o inferior a la del Director y la "
+"del Storage Daemon."
+
+msgid "Director version"
+msgstr "Versión del Director"
+
+msgid "Client version"
+msgstr "Versión del cliente"
+
+msgid "Current components"
+msgstr "Componentes actuales"
+
+msgid "Possible compatibility issue"
+msgstr "Posible problema de compatibilidad"
+
+msgid "Storage Daemon version should be the same as the Director version."
+msgstr ""
+"La versión del Storage Daemon debería ser la misma que la del Director."
+
+msgid "Storage Daemon version"
+msgstr "Versión del Storage Daemon"
+
+msgid "Select the roles you want to assign to the selected users."
+msgstr "Seleccione los roles que desea asignar a los usuarios seleccionados."
+
+msgid "Assign user roles"
+msgstr "Asignar roles de usuario"
+
+msgid "Error while assigning user roles."
+msgstr "Error al asignar roles de usuario."
+
+msgid "Unassign user roles"
+msgstr "Desasignar roles de usuario"
+
+msgid "Select the roles you want to unassign from the selected users."
+msgstr ""
+"Seleccione los roles que desea desasignar de los usuarios seleccionados."
+
+msgid "Note"
+msgstr "Nota"
+
+msgid ""
+"User must have at least one role assigned. This function protects against "
+"unassigning all roles and always keeps at least one role assigned to user."
+msgstr ""
+"El usuario debe tener al menos un rol asignado. Esta función protege contra "
+"la desasignación de todos los roles y siempre mantiene al menos un rol "
+"asignado al usuario."
+
+msgid "Unassign roles"
+msgstr "Desasignar roles"
+
+msgid "Error while unassigning user roles."
+msgstr "Error al desasignar roles de usuario."
+
+msgid "Set organization"
+msgstr "Establecer organización"
+
+msgid "Set user organization"
+msgstr "Establecer organización del usuario"
+
+msgid ""
+"Select the organization to which you want to assign the selected users."
+msgstr ""
+"Seleccione la organización a la que desea asignar los usuarios "
+"seleccionados."
+
+msgid "Error while setting user organization."
+msgstr "Error al establecer la organización del usuario."
+
+msgid ""
+"The following selected users could not be assigned to the destination "
+"organization because the same users already exists there:"
+msgstr ""
+"Los siguientes usuarios seleccionados no pudieron ser asignados a la "
+"organización de destino porque los mismos usuarios ya existen allí:"
+
+msgid "Set API hosts or API host groups"
+msgstr "Establecer hosts de API o grupos de hosts de API"
+
+msgid "Set API hosts or groups"
+msgstr "Establecer hosts de API o grupos"
+
+msgid ""
+"Select API hosts or API host groups that you want to set for the selected "
+"users."
+msgstr ""
+"Seleccione los hosts de API o los grupos de hosts de API que desea "
+"establecer para los usuarios seleccionados."
+
+msgid ""
+"Previous user API host setting will be overwritten by this new setting."
+msgstr ""
+"La configuración anterior del host de API del usuario será sobrescrita por "
+"esta nueva configuración."
+
+msgid "Error while setting API host method for users."
+msgstr "Error al establecer el método del host de API para los usuarios."
+
+msgid "Web access"
+msgstr "Acceso web"
+
+msgid "Add web access"
+msgstr "Agregar acceso web"
+
+msgid ""
+"The web access URLs can be used for different automations. This allows to "
+"create URLs that grant controlled access to selected actions (such as run "
+"backup). There can be configured various time, usage and IP address access "
+"limits. The configuration can be customized for each web access URL "
+"individually."
+msgstr ""
+"Las URL de acceso web pueden ser utilizadas para diferentes "
+"automatizaciones. Esto permite crear URL que conceden acceso controlado a "
+"acciones seleccionadas (como realizar una copia de seguridad). Se pueden "
+"configurar diversos límites de acceso por tiempo, uso y dirección IP. La "
+"configuración puede ser personalizada para cada URL de acceso web "
+"individualmente."
+
+msgid "Time access"
+msgstr "Acceso por tiempo"
+
+msgid "Usage access"
+msgstr "Acceso de uso"
+
+msgid "Source access"
+msgstr "Acceso a la fuente"
+
+msgid "Resource action"
+msgstr "Acción de recurso"
+
+msgid "Resource params"
+msgstr "Parámetros del recurso"
+
+msgid "Access URL"
+msgstr "URL de acceso"
+
+msgid "Stats"
+msgstr "Estadísticas"
+
+msgid "Resource type"
+msgstr "Tipo de recurso"
+
+msgid "Create time"
+msgstr "Hora de creación"
+
+msgid "Access time"
+msgstr "Hora de acceso"
+
+msgid "Action target"
+msgstr "Objetivo de la acción"
+
+msgid "Access limits"
+msgstr "Límites de acceso"
+
+msgid "valid all the time (until manual remove)"
+msgstr "válido todo el tiempo (hasta su eliminación manual)"
+
+msgid "valid for X days from now"
+msgstr "válido durante X días a partir de ahora"
+
+msgid "Validity days"
+msgstr "Días de validez"
+
+msgid "valid between date X and Y"
+msgstr "válido entre la fecha X y Y"
+
+msgid "From date"
+msgstr "Desde la fecha"
+
+msgid "To date"
+msgstr "Hasta la fecha"
+
+msgid "one-time use"
+msgstr "uso único"
+
+msgid "X number of uses"
+msgstr "X cantidad de usos"
+
+msgid "unlimited number of uses"
+msgstr "número ilimitado de usos"
+
+msgid "Number of uses"
+msgstr "Cantidad de usos"
+
+msgid "access for given IP addresses"
+msgstr "acceso para ciertas direcciones IP"
+
+msgid "Allowed IP addresses (comma separated)"
+msgstr "Direcciones IP permitidas (separadas por coma)"
+
+msgid "Modify action parameters"
+msgstr "Modificar parámetros de acción"
+
+msgid "Run job action params"
+msgstr "Ejecutar parámetros de acción de trabajo"
+
+msgid "Params"
+msgstr "Parámetros"
+
+msgid "See resource params"
+msgstr "Ver parámetros del recurso"
+
+msgid "See statistics"
+msgstr "Ver estadísticas"
+
+msgid "Edit web access"
+msgstr "Editar acceso web"
+
+msgid "Not used yet"
+msgstr "Aún no se ha utilizado"
+
+msgid "Valid from"
+msgstr "Válido desde"
+
+msgid "Valid to"
+msgstr "Válido hasta"
+
+msgid "Number of days"
+msgstr "Número de días"
+
+msgid "Valid for"
+msgstr "Válido para"
+
+msgid "Time state"
+msgstr "Estado de tiempo"
+
+msgid "Max. usage"
+msgstr "Máx. uso"
+
+msgid "Usage left"
+msgstr "Uso restante"
+
+msgid "Usage state"
+msgstr "Estado de uso"
+
+msgid "Date range"
+msgstr "Rango de fechas"
+
+msgid "Valid"
+msgstr "Válido"
+
+msgid "Numer of use"
+msgstr "Número de uso"
+
+msgid "Web access statistics"
+msgstr "Estadísticas de acceso web"
+
+msgid "IP addr. restriction"
+msgstr "Restricción de dirección IP"
+
+msgid "For X days"
+msgstr "Por X días"
+
+msgid "One-time use"
+msgstr "Uso único"
+
+msgid "Web access parameters"
+msgstr "Parámetros de acceso web"
+
+msgid "Number of latest jobs in table on dashboard"
+msgstr "Número de los últimos trabajos en la tabla del tablero"
