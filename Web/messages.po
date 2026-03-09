@@ -1041,17 +1041,11 @@ msgstr "Acceso rápido al trabajo"
 msgid "Finished jobs"
 msgstr "Trabajos finalizados"
 
-msgid "The most often used:"
-msgstr "Los más utilizados:"
-
 msgid "Number of clients"
 msgstr "Número de clientes"
 
 msgid "jobs"
 msgstr "trabajos"
-
-msgid "Job count the most used:"
-msgstr "Recuento de trabajos más utilizados:"
 
 msgid "level"
 msgstr "nivel"
@@ -4708,7 +4702,7 @@ msgstr "navegador plano"
 msgid "tree browser"
 msgstr "navegador de árbol"
 
-msgid "Job age on the dashboard job graphs"
+msgid "Job age for graphs"
 msgstr "Edad del trabajo en los gráficos de trabajo del tablero"
 
 msgid ""
@@ -8214,5 +8208,5 @@ msgstr "Uso único"
 msgid "Web access parameters"
 msgstr "Parámetros de acceso web"
 
-msgid "Number of latest jobs in table on dashboard"
+msgid "Number of recent jobs"
 msgstr "Número de los últimos trabajos en la tabla del tablero"
