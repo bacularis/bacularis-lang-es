@@ -1894,9 +1894,6 @@ msgstr "Configuraciones de la aplicación"
 msgid "Update slots"
 msgstr "Actualizar ranuras"
 
-msgid "Max. number of jobs visible in tables"
-msgstr "Máx. número de trabajos visibles en tablas"
-
 msgid "Max. number of jobs value must be integer greather than 0."
 msgstr "El valor del máx. número de trabajos debe ser un entero mayor que 0."
 
@@ -4701,9 +4698,6 @@ msgstr "navegador plano"
 
 msgid "tree browser"
 msgstr "navegador de árbol"
-
-msgid "Job age for graphs"
-msgstr "Edad del trabajo en los gráficos de trabajo del tablero"
 
 msgid ""
 "Set age for jobs to display the job graphs on the dashboard page. Setting "
@@ -8208,5 +8202,3 @@ msgstr "Uso único"
 msgid "Web access parameters"
 msgstr "Parámetros de acceso web"
 
-msgid "Number of recent jobs"
-msgstr "Número de los últimos trabajos en la tabla del tablero"
